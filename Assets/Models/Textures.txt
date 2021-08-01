@@ -1,0 +1,8 @@
+"PINK TEXTURES FIX"
+In Blender, Go to File/External Data/Find Missing Files/"TEXTURES FOLDER"
+
+
+
+
+
+
